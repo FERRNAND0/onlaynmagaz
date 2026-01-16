@@ -1,0 +1,42 @@
+@font-face {
+  font-family: "Integral CF";
+  src: url("../font/Fontspring-DEMO-integralcf-mediumoblique.otf");
+}
+@font-face {
+  font-family: "Satoshi";
+  src: url("../font/Satoshi-Variable.ttf");
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Satoshi";
+  text-decoration: none;
+  list-style: none;
+}
+h1 {
+  font-family: Integral CF;
+}
+h2 {
+  font-family: Integral CF;
+}
+h3 {
+  font-family: Integral CF;
+}
+h4 {
+  font-family: Satoshi;
+}
+h5 {
+  font-family: Satoshi;
+}
+p {
+  font-family: Satoshi;
+}
+.container {
+  max-width: 1440px;
+  margin: 0 auto;
+}
+img {
+  display: block;
+}
